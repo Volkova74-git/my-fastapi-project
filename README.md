@@ -45,3 +45,19 @@
 3. **Получение информации о ссылке**: Пользователь может запросить информацию о созданной короткой ссылке.
 
 Сервис является удобным инструментом для упрощения обмена длинными ссылками и отслеживания переходов по ним.
+
+# Сервис сокращения URL и TODO-сервис
+
+## Описание
+
+### Сервис сокращения URL
+[Сервис сокращения URL](https://hub.docker.com/repository/docker/volkovajane/shorturl-service/general) позволяет пользователям создавать короткие ссылки для длинных URL и предоставляет информацию о ссылках.
+
+### TODO-сервис
+[TODO-сервис](https://hub.docker.com/repository/docker/volkovajane/todo-service/general) предоставляет функциональность для управления списком задач, включая создание, чтение, обновление и удаление задач (CRUD).
+
+## Получение образов Docker
+
+Вы можете найти образы сервисов по следующим ссылкам:
+- [Docker Hub - shorturl-service](https://hub.docker.com/repository/docker/volkovajane/shorturl-service/general)
+- [Docker Hub - todo-service](https://hub.docker.com/repository/docker/volkovajane/todo-service/general)
